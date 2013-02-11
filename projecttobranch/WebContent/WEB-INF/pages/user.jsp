@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>This is a new User page</h1>
+	EDITED !
 </body>
 </html>
